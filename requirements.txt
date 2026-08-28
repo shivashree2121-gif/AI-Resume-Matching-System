@@ -1,0 +1,9 @@
+
+streamlit
+pypdf
+python-docx
+scikit-learn
+pandas
+numpy
+nltk
+pyngrok
