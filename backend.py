@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Y94_WNdkW4E2pZ9n0uXl6g0fYqTMp1-X
 """
 
-!pip install streamlit pypdf python-docx nltk scikit-learn pandas numpy matplotlib seaborn
 
 import re
 import string
