@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ukJoy6DXWdPN_hWpDj09JEBlQEHns5fA
 """
 
-!pip install pypdf python-docx scikit-learn nltk pandas numpy
 
 import re
 import string
